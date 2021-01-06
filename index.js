@@ -1,5 +1,3 @@
-function saludos(){
-	console.log("hola mundo");
-}
+const suma = (a,b)=> a+b;
 
-saludos();
+console.log(suma(10,5));
