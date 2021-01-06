@@ -1,5 +1,6 @@
-function saludos(){
-	console.log("hola mundo");
-}
+const suma = (a,b)=> a+b;
 
-saludos();
+const  mult = (a,b,c) => a * b * c;
+
+console.log(suma(10,5));
+console.log(mult(suma(5,10),1,2));
