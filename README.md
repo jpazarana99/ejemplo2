@@ -1,5 +1,4 @@
 
 # ESTE ES UN PROYECTO DE javascript
 ## Descripción
-EMPEZANDO EL REPOSITORIO 
-agregado el cam 
+Este es un pequeño proyecto de HTML, CSS, JS
