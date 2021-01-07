@@ -4,6 +4,8 @@ const  mult = (a,b) => a * b ;
 
 const div = (a,b) => a / b;
 
+const resta = (a,b,c) => a-b;
+
 document.addEventListener("DOMContentLoaded",() => {
 
 	console.log("Archivo cargado");
