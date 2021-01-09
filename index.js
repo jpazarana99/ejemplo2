@@ -19,4 +19,5 @@ document.addEventListener("DOMContentLoaded",() => {
 	console.log("Archivo cargado");
 	const content = document.getElementById("mensaje");
 	content.innerHTML = suma(10,10);
+	console.log(factorial(10));
 });
