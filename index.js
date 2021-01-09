@@ -13,7 +13,6 @@ const factoria = (n) => {
 		res*=i;
 	}
 }
-
 document.addEventListener("DOMContentLoaded",() => {
 
 	console.log("Archivo cargado");
