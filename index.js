@@ -14,7 +14,7 @@ const factoria = (n) => {
 	}
 }
 document.addEventListener("DOMContentLoaded",() => {
-
+	console.log("hola");
 	console.log("Archivo cargado");
 	const content = document.getElementById("mensaje");
 	content.innerHTML = suma(10,10);
